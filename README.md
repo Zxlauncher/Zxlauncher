@@ -35,7 +35,7 @@
 
 <br><br>
 
-<img align="right" alt="Coding" width="400"
+<img align="right" alt="Coding" width="390"
 src="https://github.com/user-attachments/assets/b30aacd7-0a29-429e-8883-1b5a0b329913">
 
 - 🔭 I’m currently open to a new Job
