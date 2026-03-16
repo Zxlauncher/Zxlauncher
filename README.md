@@ -25,11 +25,11 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,ts,js,nodejs,robloxstudio,nextjs,mysql" />
+  <img src="https://skillicons.dev/icons?i=vite,js,nodejs,robloxstudio,nextjs,html,css" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,php,notion" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,php,notion,mysql" />
 </p>
 </div>
 
