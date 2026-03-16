@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,ts,js,nodejs,robloxstudio,nextjs" />
+  <img src="https://skillicons.dev/icons?i=vite,ts,js,nodejs,robloxstudio,nextjs,mysql" />
 </p>
 
 <p>
