@@ -14,7 +14,7 @@
 
 
 <h1 align="center"></h1>
-<h3 align="center"><code>A passionate Programmer from Sri lanka</code></h3>
+<h3 align="center"><code>A passionate Frontend Developer & UI/UX Designer</code></h3>
 <p align="center">Hi, I'm Marfael Chandika Prasetyo 👋 A Frontend Developer, UI/UX Designer, and Video Editor who loves building clean, beautiful, and user-friendly interfaces. I enjoy exploring new technologies 💻 and learning development independently. Besides coding, I also like editing videos 🎬 and playing basketball 🏀.</p>
 
 <br><br>
