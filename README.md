@@ -1,3 +1,5 @@
+<samp>
+
 <!-- HERO IMAGE -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd4527be-8443-4a9d-9b7a-805bde747979" width="100%" />
@@ -12,8 +14,8 @@
 
 
 <h1 align="center"></h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h3 align="center"><code>A passionate Programmer from Sri lanka</code></h3>
+<p align="center">Hi, I'm Marfael Chandika Prasetyo 👋 A Frontend Developer, UI/UX Designer, and Video Editor who loves building clean, beautiful, and user-friendly interfaces. I enjoy exploring new technologies 💻 and learning development independently. Besides coding, I also like editing videos 🎬 and playing basketball 🏀.</p>
 
 <br><br>
 
@@ -43,9 +45,9 @@ style="margin-top:100px;">
 
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **NextJS, API, PHP and NodeJS**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **marfael2007@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 <br><br><br>
@@ -59,14 +61,20 @@ style="margin-top:100px;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/supunnanayakkara01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+<a href="https://github.com/marfael" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marfael" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@usernamekamu" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="tiktok" height="30" width="40"/></a>
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="mailto:marfael@gmail.com">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="marfael" height="30" width="40" /></a>
 </p>
+
 <h1 align="center"></h1>
 
 
 <p align="center">
 <img src="https://github.com/Zxlauncher/Zxlauncher/blob/main/cyberpunk-thankyou.svg">
 </p>
+
+</samp>
