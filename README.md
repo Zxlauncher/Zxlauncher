@@ -73,7 +73,7 @@ src="https://github.com/user-attachments/assets/b30aacd7-0a29-429e-8883-1b5a0b32
 
 
 <p align="center">
-<img src="https://github.com/Zxlauncher/Zxlauncher/blob/main/cyberpunk-thankyou.svg">
+<img src="https://raw.githubusercontent.com/Zxlauncher/Zxlauncher/17d5b917bcef5dc80c595d955fcc263946da45c1/cyberpunk-thankyou.svg">
 </p>
 
 </samp>
